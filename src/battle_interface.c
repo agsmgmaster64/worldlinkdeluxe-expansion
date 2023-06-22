@@ -34,6 +34,8 @@
 #include "constants/songs.h"
 #include "constants/items.h"
 
+// bup
+
 enum
 {   // Corresponds to gHealthboxElementsGfxTable (and the tables after it) in graphics.c
     // These are indexes into the tables, which are filled with 8x8 square pixel data.
